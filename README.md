@@ -75,9 +75,10 @@ This dashboard enables organizations to:
 - Insight Generation & Reporting
 
 ### Author
-# Ankita Bhute
+#### Ankita Bhute
 Data Analyst | Power BI Developer | Business Intelligence Enthusiast
 
 ### 🔗 Connect With Me
 LinkedIn: www.linkedin.com/in/ankita-bhute
+
 GitHub: https://github.com/ankitabhute15
