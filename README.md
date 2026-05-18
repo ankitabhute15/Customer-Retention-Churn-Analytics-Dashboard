@@ -2,11 +2,9 @@
 
 ### Project Overview
 Developed an end-to-end Power BI dashboard to analyze customer retention trends, churn behavior, and high-risk customer segments. The dashboard helps stakeholders monitor KPIs, identify churn drivers, evaluate customer engagement patterns, and support data-driven business decisions through interactive visual analytics.
-#### Keywords:
-Power BI Dashboard, Customer Churn Analysis, Customer Retention Analytics, DAX, Power Query, KPI Dashboard, Business Intelligence, Data Visualization, Data Analytics
 
 ### Dashboard Preview
-<img width="810" height="505" alt="SuperStoreSales_Dashboard" src="https://github.com/ankitabhute15/Customer-Retention-Churn-Analytics-Dashboard/blob/main/Customer%20Retention%20%26%20Churn%20Analytics%20Dashboard.PNG"/>
+<img width="810" height="505" alt="Customer-Retention-Churn-Analytics-Dashboard" src="https://github.com/ankitabhute15/Customer-Retention-Churn-Analytics-Dashboard/blob/main/Customer%20Retention%20%26%20Churn%20Analytics%20Dashboard.PNG"/>
 
 ### Business Objectives
 - Analyze customer churn and retention trends
@@ -76,6 +74,6 @@ This dashboard enables organizations to:
 Data Analyst | Power BI Developer | Business Intelligence Enthusiast
 
 ### 🔗 Connect With Me
-LinkedIn: www.linkedin.com/in/ankita-bhute
+LinkedIn: https://www.linkedin.com/in/ankita-bhute
 
 GitHub: https://github.com/ankitabhute15
