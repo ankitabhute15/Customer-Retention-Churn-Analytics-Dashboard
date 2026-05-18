@@ -3,7 +3,7 @@
 ### Project Overview
 Developed an end-to-end Power BI dashboard to analyze customer retention trends, churn behavior, and high-risk customer segments. The dashboard helps stakeholders monitor KPIs, identify churn drivers, evaluate customer engagement patterns, and support data-driven business decisions through interactive visual analytics.
 
-# Keywords:
+#### Keywords:
 Power BI Dashboard, Customer Churn Analysis, Customer Retention Analytics, DAX, Power Query, KPI Dashboard, Business Intelligence, Data Visualization, Data Analytics
 
 ### Dashboard Preview
@@ -27,12 +27,12 @@ Power BI Dashboard, Customer Churn Analysis, Customer Retention Analytics, DAX, 
 - KPI Reporting
 
 ### Dashboard Features
-# KPI Metrics
+#### KPI Metrics
 - Total Customers
 - Churned Customers
 - Churn Rate %
 
-# Interactive Visualizations
+#### Interactive Visualizations
 - Customer Retention Overview
 - Churn Analysis by Contract Type
 - Risk-Based Customer Segmentation
@@ -40,7 +40,7 @@ Power BI Dashboard, Customer Churn Analysis, Customer Retention Analytics, DAX, 
 - Monthly Charges Comparison
 - Customer Revenue Analysis
 
-# Dashboard Capabilities
+#### Dashboard Capabilities
 - Interactive filtering and drill-down analysis
 - Dynamic KPI monitoring
 - Customer behavior analysis
